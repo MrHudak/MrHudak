@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MrHudak
-- 👀 I’m interested in games,animes and so on
-- 🌱 I’m currently learning python
+-实训期间写的微服务电商项目
 
 
 <!---
